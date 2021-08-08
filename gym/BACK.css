@@ -1,0 +1,36 @@
+.back1
+{
+	background-image:url(back1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-top:10px; 
+	height:450px;
+	width:450px;
+}
+.back2
+{
+	background-image:url(back2.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top:10px; 
+	height:450px;
+	width:450px;
+}
+.backk3
+{
+	background-image:url(backk3.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top:10px; 
+	height:450px;
+	width:450px;
+}
+.back4
+{
+	background-image:url(back4.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top:10px; 
+	height:450px;
+	width:450px;
+}

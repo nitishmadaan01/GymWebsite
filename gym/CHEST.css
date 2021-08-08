@@ -1,0 +1,42 @@
+.chest1
+{
+
+	background-image:url(chest1.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:400px;
+	width:500px;  
+}
+
+.chest2
+{
+
+	background-image:url(chest2.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top:10px; 
+	height:400px;
+	width:450px;  
+}
+
+.chest3
+{
+
+	background-image:url(chest3.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top:10px; 
+	height:400px;
+	width:450px;  
+}
+
+.chest4
+{
+
+	background-image:url(chest4.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top:10px; 
+	height:400px;
+	width:450px;  
+}
